@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\도형실습\도형실습\bin\Debug\도형실습.exe.config
+C:\Users\user\Desktop\도형실습\도형실습\obj\Debug\도형실습.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\도형실습\도형실습\bin\Debug\도형실습.exe
+C:\Users\user\Desktop\도형실습\도형실습\bin\Debug\도형실습.pdb
+C:\Users\user\Desktop\도형실습\도형실습\obj\Debug\도형실습.exe
+C:\Users\user\Desktop\도형실습\도형실습\obj\Debug\도형실습.pdb
