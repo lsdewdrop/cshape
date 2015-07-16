@@ -14,10 +14,20 @@ namespace 도형실습
             List<ThreeDim> three = new List<ThreeDim>();
             while(true)
             {
+                int num = 0 ;
+                string mo="";
                 Console.WriteLine("단위크기를 입력해주세요.");
-                int num = Convert.ToInt32(Console.ReadLine());
+
+                try
+                {
+                    num = Convert.ToInt32(Console.ReadLine());
+                }
+                catch(FormatException e)
+                {
+                    Console.WriteLine("숫자를 입력해주세요.");
+                }
                 Console.WriteLine("모양을 입력해주세요.(정사각형, 정삼각형, 원, 구, 정사면체)");
-                string mo = Console.ReadLine();
+                mo = Console.ReadLine();
                 if(mo=="정사각형")
                 {
                     int check=0;

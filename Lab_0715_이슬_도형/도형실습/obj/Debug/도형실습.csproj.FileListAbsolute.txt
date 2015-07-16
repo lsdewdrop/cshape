@@ -4,3 +4,12 @@ C:\Users\user\Desktop\도형실습\도형실습\bin\Debug\도형실습.exe
 C:\Users\user\Desktop\도형실습\도형실습\bin\Debug\도형실습.pdb
 C:\Users\user\Desktop\도형실습\도형실습\obj\Debug\도형실습.exe
 C:\Users\user\Desktop\도형실습\도형실습\obj\Debug\도형실습.pdb
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\cshape\Lab_0715_이슬_도형\도형실습\bin\Debug\도형실습.exe.config
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\cshape\Lab_0715_이슬_도형\도형실습\obj\Debug\도형실습.exe
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\cshape\Lab_0715_이슬_도형\도형실습\obj\Debug\도형실습.pdb
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\cshape\Lab_0715_이슬_도형\도형실습\bin\Debug\도형실습.exe
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\cshape\Lab_0715_이슬_도형\도형실습\bin\Debug\도형실습.pdb
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\cshape\Lab_0715_이슬_도형\도형실습\obj\Debug\도형실습.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\Lab_0715_이슬_도형\도형실습\bin\Debug\도형실습.exe.config
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\Lab_0715_이슬_도형\도형실습\obj\Debug\도형실습.exe
+C:\Users\user\Desktop\해커\여름합숙\C#\도형실습\Lab_0715_이슬_도형\도형실습\obj\Debug\도형실습.pdb
