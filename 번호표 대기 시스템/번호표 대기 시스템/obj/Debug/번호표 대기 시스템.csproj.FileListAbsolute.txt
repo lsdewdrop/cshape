@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\bin\Debug\번호표 대기 시스템.exe.config
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\bin\Debug\번호표 대기 시스템.exe
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\bin\Debug\번호표 대기 시스템.pdb
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Form1.resources
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Form2.resources
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Form3.resources
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Properties.Resources.resources
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.exe
+C:\Users\user\Desktop\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.pdb
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\bin\Debug\번호표 대기 시스템.exe.config
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\bin\Debug\번호표 대기 시스템.exe
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\bin\Debug\번호표 대기 시스템.pdb
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Form1.resources
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Form2.resources
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Form3.resources
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표_대기_시스템.Properties.Resources.resources
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.exe
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.pdb
+C:\Users\user\Desktop\해커\여름합숙\C#\번호표 대기 시스템\번호표 대기 시스템\obj\Debug\번호표 대기 시스템.csprojResolveAssemblyReference.cache
